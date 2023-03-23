@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"../components/p5.tsx -> react-p5":{"id":"../components/p5.tsx -> react-p5","files":["static/chunks/node_modules_react-p5_build_index_js.js"]},"../components/p5_2.tsx -> react-p5":{"id":"../components/p5_2.tsx -> react-p5","files":["static/chunks/node_modules_react-p5_build_index_js.js"]}}

@@ -42,11 +42,6 @@ export const p5_2 = () => {
         }
     };
 
-    // const keyReleased = (p5: p5Types) => {
-    //     if (p5.keyCode == p5.DELETE || p5.keyCode == p5.BACKSPACE) p5.background(255);
-    //     if (p5.key == 's' || p5.key == 'S') p5.saveCanvas(p5.background.timestamp(), 'png');
-    // }
-
     // コンポーネントのレスポンシブ化
     const windowResized = (p5: p5Types) => {
         p5.resizeCanvas(p5.windowWidth, p5.windowHeight);
